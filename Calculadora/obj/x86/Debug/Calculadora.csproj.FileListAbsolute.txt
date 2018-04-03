@@ -1,0 +1,35 @@
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\bin\Debug\calculadora.exe
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\Mac\Downloads\calculator1226\calculator\calculadora\obj\x86\Debug\calculadora.pdb
+C:\Users\Laecio_Carvalho\Downloads\calculadora\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\Laecio_Carvalho\Downloads\calculadora\calculadora\obj\x86\Debug\calculadora.pdb
+C:\Users\Laecio_Carvalho\Downloads\calculadora\calculadora\bin\Debug\calculadora.exe
+C:\Users\Laecio_Carvalho\Downloads\calculadora\calculadora\bin\Debug\calculadora.pdb
+C:\Users\Laecio_Carvalho\Downloads\calculadora\calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\Laecio_Carvalho\Downloads\calculadora\calculadora\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Laecio_Carvalho\Downloads\calculadora\calculadora\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Laecio_Carvalho\Downloads\calculadora\calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\laecio.csa\Documents\Visual Studio 2015\Projects\Laecio\Exercicio.Laecio\calculadoraCompleta\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\laecio.csa\Documents\Visual Studio 2015\Projects\Laecio\Exercicio.Laecio\calculadoraCompleta\calculadora\obj\x86\Debug\calculadora.pdb
+C:\Users\laecio.csa\Documents\Visual Studio 2015\Projects\Laecio\Exercicio.Laecio\calculadoraCompleta\calculadora\bin\Debug\calculadora.exe
+C:\Users\laecio.csa\Documents\Visual Studio 2015\Projects\Laecio\Exercicio.Laecio\calculadoraCompleta\calculadora\bin\Debug\calculadora.pdb
+C:\Users\laecio.csa\Documents\Visual Studio 2015\Projects\Laecio\Exercicio.Laecio\calculadoraCompleta\calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\laecio.csa\Documents\Visual Studio 2015\Projects\Laecio\Exercicio.Laecio\calculadoraCompleta\calculadora\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\laecio.csa\Documents\Visual Studio 2015\Projects\Laecio\Exercicio.Laecio\calculadoraCompleta\calculadora\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\laecio.csa\Documents\Visual Studio 2015\Projects\Laecio\Exercicio.Laecio\calculadoraCompleta\calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Laecio_Carvalho\Documents\Visual Studio 2015\Projects\Exercicio.Laecio\calculadoraCompleta\calculadora\obj\x86\Debug\calculadora.exe
+C:\Users\Laecio_Carvalho\Documents\Visual Studio 2015\Projects\Exercicio.Laecio\calculadoraCompleta\calculadora\obj\x86\Debug\calculadora.pdb
+F:\Projects\Exercicio.Laecio\calculadoraCompleta\calculadora\obj\x86\Debug\calculadora.exe
+F:\Projects\Exercicio.Laecio\calculadoraCompleta\calculadora\obj\x86\Debug\calculadora.pdb
+F:\Projects\Exercicio.Laecio\calculadoraCompleta\calculadora\bin\Debug\calculadora.exe
+F:\Projects\Exercicio.Laecio\calculadoraCompleta\calculadora\bin\Debug\calculadora.pdb
+F:\Projects\Exercicio.Laecio\calculadoraCompleta\calculadora\obj\x86\Debug\Calculadora.csprojResolveAssemblyReference.cache
+F:\Projects\Exercicio.Laecio\calculadoraCompleta\calculadora\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Projects\Exercicio.Laecio\calculadoraCompleta\calculadora\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Projects\Exercicio.Laecio\calculadoraCompleta\calculadora\obj\x86\Debug\Calculadora.csproj.GenerateResource.Cache
